@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⬡ Hicks OSINT Dashboard
+# ⬡OSINT Dashboard
 
 ### Open Source Intelligence & Reconnaissance Integrated System
 
